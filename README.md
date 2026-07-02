@@ -62,9 +62,7 @@ resume_analyzer/
 ## Screenshots
 # AI Resume Analyzer
 
-## Home Page
 
-![Home Page](screenshots/home.png)
 
 ---
 
