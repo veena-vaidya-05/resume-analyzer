@@ -60,7 +60,35 @@ resume_analyzer/
 ```
 
 ## Screenshots
-> Placeholder: Add screenshots in this section for your capstone submission.
+# AI Resume Analyzer
+
+## Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+## Upload Resume
+
+![Upload Resume](screenshots/upload.png)
+
+---
+
+## Analysis Result
+
+![Analysis Result](screenshots/analysis.png)
+
+---
+
+## Download Report
+
+![Report](screenshots/report.png)
+
+-----
+
+## local host link:
+
+Local URL: http://localhost:8501
 
 ## Future Enhancements
 - Improve skill extraction using supervised keyword weights
@@ -68,9 +96,4 @@ resume_analyzer/
 - Add per-category similarity scoring
 - Add multilingual support
 
-## License
-MIT
-
-## Author
-BlackboxAI
 
